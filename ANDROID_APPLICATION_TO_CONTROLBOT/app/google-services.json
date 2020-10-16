@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "167304760270",
+    "firebase_url": "https://botproject-da8d0.firebaseio.com",
+    "project_id": "botproject-da8d0",
+    "storage_bucket": "botproject-da8d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167304760270:android:699f1eac64ba71e4",
+        "android_client_info": {
+          "package_name": "com.example.botlocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167304760270-k23jfkbl3dl9l8cm90qa8u9c2dlffggh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbt-3XxnaiJxEo4DS2Uoa1vfSIB6idX4U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
